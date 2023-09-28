@@ -1,2 +1,1 @@
-# Wav2Lip
-Lip Sync
+Wav2Lip is a deep learning model designed for the task of audio-driven facial animation, often referred to as lip-syncing. This technology uses a combination of audio input and a reference image or video to generate realistic lip movements that synchronize with the provided audio. Wav2Lip has applications in the film and entertainment industry, as well as for creating lifelike avatars and virtual characters. It leverages state-of-the-art deep learning techniques to produce compelling and natural-looking lip animations, enhancing the realism of computer-generated characters or dubbing in videos.
